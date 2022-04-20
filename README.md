@@ -4,6 +4,8 @@
 
 # Usage
 
+-Step 1
+
 1- Add your {google-services.json} file to the project.
 
 2- Activate the authentication feature and enable "Email/Password" method provider.
