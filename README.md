@@ -4,7 +4,7 @@
 
 # Usage
 
--Step 1
+## Step 1
 
 1- Add your {google-services.json} file to the project.
 
