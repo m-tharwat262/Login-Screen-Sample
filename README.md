@@ -11,4 +11,3 @@
 2- Activate the authentication feature and enable "Email/Password" method provider.
 
 3- Activate the Realtime database (to save the user data like his name etc...).
-
