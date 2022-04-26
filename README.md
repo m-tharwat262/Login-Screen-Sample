@@ -7,7 +7,7 @@
 
 
 
-[Github Assets.mp4](https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Splash_screen.mp4)
+[GitHub Assets.mp4](https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Splash_screen.mp4)
 
 
 
