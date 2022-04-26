@@ -4,7 +4,7 @@
 
 # Screenshots
 
-![alt text](https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Login_screen.jpg) ![alt text](https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Sign_up_screen.jpg) 
+![alt text](https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Login_screen.jpg  | width=100) ![alt text](https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Sign_up_screen.jpg  | width=100) 
 
 Sign_up_screen.jpg
 # Usage
