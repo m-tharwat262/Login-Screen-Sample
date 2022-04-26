@@ -4,17 +4,7 @@
 
 # Screenshots
 
-
-
-
-https://user-images.githubusercontent.com/87830258/165206615-91828b6a-d309-4624-9267-f2010da4e933.mp4
-
-
-
-<img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Splash_screen.gif" width="200">
-
-
-<img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Login_screen.jpg" width="200">  <img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Sign_up_screen.jpg" width="200">  <img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Reset_password_screen.jpg" width="200">  <img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Reset_password_dialog.jpg" width="200">
+<img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Splash_screen.gif" width="200"> <img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Login_screen.jpg" width="200">  <img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Sign_up_screen.jpg" width="200">  <img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Reset_password_screen.jpg" width="200">  <img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Reset_password_dialog.jpg" width="200">
 
 
 Sign_up_screen.jpg
