@@ -4,7 +4,7 @@
 
 # Screenshots
 
-/Images/Login_screen.jpg
+https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Login_screen.jpg
 
 
 # Usage
