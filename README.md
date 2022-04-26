@@ -6,7 +6,7 @@
 
 
 
-<src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Splash_screen.mp4" width="200">
+<video src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Splash_screen.mp4" width="200">
 
 
 <img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Login_screen.jpg" width="200">  <img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Sign_up_screen.jpg" width="200">  <img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Reset_password_screen.jpg" width="200">  <img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Reset_password_dialog.jpg" width="200">
