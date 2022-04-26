@@ -4,7 +4,7 @@
 
 # Screenshots
 
-<img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Login_screen.jpg" width="150">  <img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Sign_up_screen.jpg" width="150">
+<img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Login_screen.jpg" width="200">  <img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Sign_up_screen.jpg" width="200">
 
 
 Sign_up_screen.jpg
