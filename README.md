@@ -6,8 +6,14 @@
 
 **Step 1**
 
-1- Add your {google-services.json} file to the project.
+1- Download the porject.
 
-2- Activate the authentication feature and enable "Email/Password" method provider.
+2- Create a new project in Firebase.
 
-3- Activate the Realtime database (to save the user data like his name etc...).
+2- Download and add your {google-services.json} file to the project in that path "SpeLogin/app/".
+
+3- Activate the authentication feature and enable "Email/Password" method provider.
+
+4- Activate the Realtime database (to save the user data like his name etc...).
+
+5- Import the project to android studio or any IDEs you prefere and enjoy with your app.
