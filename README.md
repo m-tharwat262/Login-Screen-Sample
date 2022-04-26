@@ -3,8 +3,12 @@
 - SPE Login is a demo app for login / sign up / reset password screens with a beautiful design linked with the firebase.
 
 # Screenshots
+https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Login_screen.jpg
+<img src="https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Login_screen.jpg" width="100" height="100">
 
-![alt text](https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Login_screen.jpg  | width=100) ![alt text](https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Sign_up_screen.jpg  | width=100) 
+
+
+![alt text](https://github.com/m-tharwat262/SpeLogin/blob/master/Images/Sign_up_screen.jpg  | width=100) 
 
 Sign_up_screen.jpg
 # Usage
