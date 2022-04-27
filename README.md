@@ -23,3 +23,7 @@ Sign_up_screen.jpg
 4- Activate the Realtime database (to save the user data like his name etc...).
 
 5- Import the project to android studio or any IDEs you prefere and enjoy with your app.
+
+
+# Apk
+the apk [here](https://github.com/m-tharwat262/SpeLogin/blob/master/Apk/app-debug.apk)
