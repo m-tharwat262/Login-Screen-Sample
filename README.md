@@ -26,4 +26,4 @@ Sign_up_screen.jpg
 
 
 # Apk
-the apk [here](https://github.com/m-tharwat262/SpeLogin/blob/master/Apk/app-debug.apk)
+Download and test the app on your device from [here](https://raw.githubusercontent.com/m-tharwat262/SpeLogin/master/Apk/Application.apk)
