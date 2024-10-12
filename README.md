@@ -2,6 +2,7 @@
 
 - A demo app for login / sign up / reset password screens with a beautiful design linked with the Firebase.
 
+
 # Screenshots
 <div style="display: flex; justify-content: center;">
   <img src="screenshots/splash_screen.gif" alt="Splash Screen" width="150" style="margin-right: 20px;" />
@@ -10,6 +11,7 @@
   <img src="screenshots/reset_password_screen.jpg" alt="Reset Password Screen" width="150" style="margin-right: 20px;" />
   <img src="screenshots/reset_password_dialog.jpg" alt="Reset Password Dialog" width="150" style="margin-right: 20px;" />
 </div>
+
 
 # Usage
 
