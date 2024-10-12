@@ -1,9 +1,9 @@
-# SpeLogin
+# Login Screen Sample App
 
 - A demo app for login / sign up / reset password screens with a beautiful design linked with the Firebase.
 
 
-# Screenshots
+## Preview
 <div style="display: flex; justify-content: center;">
   <img src="screenshots/splash_screen.gif" alt="Splash Screen" width="150" style="margin-right: 20px;" />
   <img src="screenshots/login_screen.jpg" alt="Login Screen" width="150" style="margin-right: 20px;" />
@@ -13,7 +13,7 @@
 </div>
 
 
-# Usage
+## How to Start
 
 **Step 1**
 
@@ -30,5 +30,5 @@
 5- Import the project to Android Studio or any IDEs you prefer and enjoy with your app.
 
 
-# Apk
+## Apk
 Download and test the app on your device from [here](https://raw.githubusercontent.com/m-tharwat262/SpeLogin/master/Apk/Application.apk)
