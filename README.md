@@ -28,5 +28,5 @@
 5- Import the project to Android Studio or any IDEs you prefer and enjoy with your app.
 
 
-## Apk
-Download and test the app on your device from [here](https://raw.githubusercontent.com/m-tharwat262/Login-Screen-Sample/master/apk/preview_app.apk)
+## Download
+You can download the app from [here.](https://raw.githubusercontent.com/m-tharwat262/Login-Screen-Sample/master/apk/preview_apk.apk)
