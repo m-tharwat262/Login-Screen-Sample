@@ -29,4 +29,4 @@
 
 
 ## Apk
-Download and test the app on your device from [here](https://raw.githubusercontent.com/m-tharwat262/Login-Screen-Sample/master/Apk/Application.apk)
+Download and test the app on your device from [here](https://raw.githubusercontent.com/m-tharwat262/Login-Screen-Sample/master/apk/preview_app.apk)
