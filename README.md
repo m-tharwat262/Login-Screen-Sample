@@ -13,9 +13,7 @@
 </div>
 
 
-## How to Start
-
-**Step 1**
+## How to Use
 
 1- Download the project.
 
