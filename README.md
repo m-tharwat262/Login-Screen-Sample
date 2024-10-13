@@ -29,4 +29,4 @@
 
 
 ## Download
-You can download the app from [here.](https://raw.githubusercontent.com/m-tharwat262/Login-Screen-Sample/master/apk/preview_apk.apk)
+You can download a Preview App from [here.](https://github.com/m-tharwat262/Login-Screen-Sample/raw/main/apk/preview_apk.apk)
